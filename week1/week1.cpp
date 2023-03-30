@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "week1: Hello World!\n";
+    std::cout << "Git\n";
     int iVal1 = -1;   //these are primitives
     short shVal2 = 3;
     int iVal3 = 45;
